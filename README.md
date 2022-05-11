@@ -7,6 +7,7 @@
 ## Methodology
 ### 1. Saliency map generation and Cloth Segmentation
 We used a pre-trained U-2-Net model for [Cloth Segmentation](https://github.com/levindabhi/cloth-segmentation) & [Saliency Map generation](https://github.com/xuebinqin/U-2-Net) . The model was trained on [this dataset](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/data). The model accurately segments cloth components based on upper body cloth, lower body cloth, fully body cloth and background.
+
 ![Method](./Results/d2.png)
 
 ### 2. Neural Style Transfer
