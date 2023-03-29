@@ -2,6 +2,7 @@
 
 ### Try-it on Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17pNBQDk4jNMHq-Elq_rV7mPHq7Jyan-D?usp=sharing)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1AfClJnV-_OZhaqI9K2ijUJnDo0lVt1pW?usp=sharing)
 
 ![Method](./Results/Res2.jpg)
 ## Methodology
